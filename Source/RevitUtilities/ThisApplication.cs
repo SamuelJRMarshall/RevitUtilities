@@ -36,5 +36,12 @@ namespace RevitUtilities
 			this.Shutdown += new System.EventHandler(Module_Shutdown);
 		}
 		#endregion
+		
+		
+		public void ViewMash()
+		{
+			TaskDialog.Show("helloworld", "good morning");
+			
+		}
 	}
 }
