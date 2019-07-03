@@ -405,5 +405,9 @@ namespace RevitUtilities
 			}
 		
 		}
+		
+		public void EmptyMethod(){
+			
+		}
 	}
 }
