@@ -1,0 +1,5 @@
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\RevitUtilities\AddIn\RevitUtilities.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\RevitUtilities\AddIn\RevitUtilities.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\RevitUtilities\Source\RevitUtilities\obj\Debug\RevitUtilities.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\RevitUtilities\Source\RevitUtilities\obj\Debug\RevitUtilities.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\RevitUtilities\Source\RevitUtilities\obj\Debug\RevitUtilities.csprojResolveAssemblyReference.cache
