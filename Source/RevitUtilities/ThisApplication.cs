@@ -36,5 +36,9 @@ namespace RevitUtilities
 			this.Shutdown += new System.EventHandler(Module_Shutdown);
 		}
 		#endregion
+		
+		public void SamsMethod(){
+			TaskDialog.Show("Message", "This works");
+		}
 	}
 }
