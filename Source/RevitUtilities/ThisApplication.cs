@@ -37,11 +37,12 @@ namespace RevitUtilities
 		}
 		#endregion
 		
-		
 		public void ViewMash()
 		{
 			TaskDialog.Show("helloworld", "good morning");
-			
+}
+		public void SamsMethod(){
+			TaskDialog.Show("Message", "This works");
 		}
 	}
 }
