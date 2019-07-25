@@ -1,0 +1,10 @@
+C:\Users\Sam Marshall\source\repos\BinaryTree\BinaryTreeTest\bin\Debug\BinaryTreeTest.exe.config
+C:\Users\Sam Marshall\source\repos\BinaryTree\BinaryTreeTest\bin\Debug\BinaryTreeTest.exe
+C:\Users\Sam Marshall\source\repos\BinaryTree\BinaryTreeTest\bin\Debug\BinaryTreeTest.pdb
+C:\Users\Sam Marshall\source\repos\BinaryTree\BinaryTreeTest\bin\Debug\BinaryTree.dll
+C:\Users\Sam Marshall\source\repos\BinaryTree\BinaryTreeTest\bin\Debug\BinaryTree.pdb
+C:\Users\Sam Marshall\source\repos\BinaryTree\BinaryTreeTest\obj\Debug\BinaryTreeTest.csprojAssemblyReference.cache
+C:\Users\Sam Marshall\source\repos\BinaryTree\BinaryTreeTest\obj\Debug\BinaryTreeTest.csproj.CoreCompileInputs.cache
+C:\Users\Sam Marshall\source\repos\BinaryTree\BinaryTreeTest\obj\Debug\BinaryTreeTest.csproj.CopyComplete
+C:\Users\Sam Marshall\source\repos\BinaryTree\BinaryTreeTest\obj\Debug\BinaryTreeTest.exe
+C:\Users\Sam Marshall\source\repos\BinaryTree\BinaryTreeTest\obj\Debug\BinaryTreeTest.pdb

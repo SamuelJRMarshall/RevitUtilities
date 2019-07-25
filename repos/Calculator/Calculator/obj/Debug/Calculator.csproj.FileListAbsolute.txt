@@ -1,0 +1,13 @@
+C:\Users\Sam Marshall\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Sam Marshall\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Sam Marshall\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Sam Marshall\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Sam Marshall\source\repos\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Sam Marshall\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Sam Marshall\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Sam Marshall\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Sam Marshall\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Sam Marshall\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Sam Marshall\source\repos\Calculator\Calculator\bin\Debug\CalculatorLogic.dll
+C:\Users\Sam Marshall\source\repos\Calculator\Calculator\bin\Debug\CalculatorLogic.pdb
+C:\Users\Sam Marshall\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete

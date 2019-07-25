@@ -1,0 +1,6 @@
+C:\Users\Sam Marshall\source\repos\ViewOptions\ViewOptions\bin\Debug\ViewOptions.dll
+C:\Users\Sam Marshall\source\repos\ViewOptions\ViewOptions\bin\Debug\ViewOptions.pdb
+C:\Users\Sam Marshall\source\repos\ViewOptions\ViewOptions\obj\Debug\ViewOptions.csproj.CoreCompileInputs.cache
+C:\Users\Sam Marshall\source\repos\ViewOptions\ViewOptions\obj\Debug\ViewOptions.dll
+C:\Users\Sam Marshall\source\repos\ViewOptions\ViewOptions\obj\Debug\ViewOptions.pdb
+C:\Users\Sam Marshall\source\repos\ViewOptions\ViewOptions\obj\Debug\ViewOptions.csprojAssemblyReference.cache

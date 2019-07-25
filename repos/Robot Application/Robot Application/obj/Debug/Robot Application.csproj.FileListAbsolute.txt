@@ -1,0 +1,17 @@
+c:\users\sam marshall\source\repos\Robot Application\Robot Application\bin\Debug\Robot Application.exe.config
+c:\users\sam marshall\source\repos\Robot Application\Robot Application\bin\Debug\Robot Application.exe
+c:\users\sam marshall\source\repos\Robot Application\Robot Application\bin\Debug\Robot Application.pdb
+c:\users\sam marshall\source\repos\Robot Application\Robot Application\obj\Debug\Robot Application.csprojAssemblyReference.cache
+c:\users\sam marshall\source\repos\Robot Application\Robot Application\obj\Debug\Interop.RobotOM.dll
+c:\users\sam marshall\source\repos\Robot Application\Robot Application\obj\Debug\Robot Application.csproj.ResolveComReference.cache
+c:\users\sam marshall\source\repos\Robot Application\Robot Application\obj\Debug\MainWindow.g.cs
+c:\users\sam marshall\source\repos\Robot Application\Robot Application\obj\Debug\App.g.cs
+c:\users\sam marshall\source\repos\Robot Application\Robot Application\obj\Debug\Robot Application_MarkupCompile.cache
+c:\users\sam marshall\source\repos\Robot Application\Robot Application\obj\Debug\Robot Application_MarkupCompile.lref
+c:\users\sam marshall\source\repos\Robot Application\Robot Application\obj\Debug\MainWindow.baml
+c:\users\sam marshall\source\repos\Robot Application\Robot Application\obj\Debug\Robot Application.g.resources
+c:\users\sam marshall\source\repos\Robot Application\Robot Application\obj\Debug\Robot_Application.Properties.Resources.resources
+c:\users\sam marshall\source\repos\Robot Application\Robot Application\obj\Debug\Robot Application.csproj.GenerateResource.cache
+c:\users\sam marshall\source\repos\Robot Application\Robot Application\obj\Debug\Robot Application.csproj.CoreCompileInputs.cache
+c:\users\sam marshall\source\repos\Robot Application\Robot Application\obj\Debug\Robot Application.exe
+c:\users\sam marshall\source\repos\Robot Application\Robot Application\obj\Debug\Robot Application.pdb

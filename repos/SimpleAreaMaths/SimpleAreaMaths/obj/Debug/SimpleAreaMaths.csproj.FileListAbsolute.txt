@@ -1,0 +1,7 @@
+C:\Users\Sam Marshall\source\repos\SimpleAreaMaths\SimpleAreaMaths\bin\Debug\SimpleAreaMaths.exe.config
+C:\Users\Sam Marshall\source\repos\SimpleAreaMaths\SimpleAreaMaths\bin\Debug\SimpleAreaMaths.exe
+C:\Users\Sam Marshall\source\repos\SimpleAreaMaths\SimpleAreaMaths\bin\Debug\SimpleAreaMaths.pdb
+C:\Users\Sam Marshall\source\repos\SimpleAreaMaths\SimpleAreaMaths\obj\Debug\SimpleAreaMaths.csprojAssemblyReference.cache
+C:\Users\Sam Marshall\source\repos\SimpleAreaMaths\SimpleAreaMaths\obj\Debug\SimpleAreaMaths.csproj.CoreCompileInputs.cache
+C:\Users\Sam Marshall\source\repos\SimpleAreaMaths\SimpleAreaMaths\obj\Debug\SimpleAreaMaths.exe
+C:\Users\Sam Marshall\source\repos\SimpleAreaMaths\SimpleAreaMaths\obj\Debug\SimpleAreaMaths.pdb
